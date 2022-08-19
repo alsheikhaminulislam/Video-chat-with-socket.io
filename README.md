@@ -2,7 +2,7 @@
 
 Video-chat-v1 is a video chat app that makes it easy to groups up with people you want to meet
 
-![IMG](./video-chat.png)
+![IMG](./Screenshot 2022-08-19 142625.png)
 
 Check out the live demo: https://xxxxxxxxxxx.herokuapp.com/
 
